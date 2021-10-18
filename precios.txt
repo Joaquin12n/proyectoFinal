@@ -1,0 +1,26 @@
+Cafetería
+
+Cortadito $80.
+Café en Jarrita $90. 
+Café Doble $110.
+Café con leche $100. 
+Capuchino $150. 
+Submarino $140.
+Té $70.
+
+Para acompañar
+
+Facturas o bizcochos $60.
+Tostado de jamón y queso $130.
+Tostado de ternera y queso $150.
+Medialunas con jamón y queso $150. 
+Tostadas $60.
+Porción de masas $70.
+Porción de mermelada, manteca o queso $30.
+
+Bebidas
+ 
+Jugo exprimido de naranja $120.
+Licuados, banana, durazno, frutilla $150.
+Gaseosa 500 cc, Coca, Sprite , Fanta $120.
+Agua mineral 600 cc $70.
